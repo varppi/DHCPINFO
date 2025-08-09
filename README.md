@@ -1,4 +1,4 @@
-![image](https://github.com/SpoofIMEI/DHCPINFO/blob/main/dhcpinfo.png?raw=true)
+![image](https://github.com/Varppi/DHCPINFO/blob/main/dhcpinfo.png?raw=true)
 
 
 # Description
@@ -6,7 +6,7 @@
 
 # Installation (Linux)
 ```
-git clone https://github.com/SpoofIMEI/DHCPINFO; cd DHCPINFO
+git clone https://github.com/Varppi/DHCPINFO; cd DHCPINFO
 pip install -r requirements.txt
 sudo python main.py
 ```
